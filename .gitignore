@@ -1,0 +1,17 @@
+target/*
+test-output/*
+.settings/*
+.idea/*
+
+*.iml
+*.ipr
+*.iws
+
+.DS_Store
+.project
+.classpath
+.springBeans
+atlassian-ide-plugin.xml
+
+
+
